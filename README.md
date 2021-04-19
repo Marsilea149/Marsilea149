@@ -2,7 +2,7 @@
 - 👀 I’m interested in Robotics, AI, Computer Vision, Localization and Navigation.
 - 🌱 I’m currently learning data structure and algorithms.
 - 💞️ I’m looking to collaborate on interesting robotic projects.
-- 📫 How to reach me ... just write me message through Github!
+- 📫 How to reach me ... 
 
 <!---
 Marsilea149/Marsilea149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
